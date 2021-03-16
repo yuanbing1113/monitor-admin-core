@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/casbin/casbin/v2"
-	"github.com/go-admin-team/go-admin-core/logger"
 	"github.com/robfig/cron/v3"
+	"github.com/yuanbing1113/monitor-admin-core/logger"
 	"gorm.io/gorm"
 )
 

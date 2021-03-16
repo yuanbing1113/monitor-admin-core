@@ -2,10 +2,11 @@ package zap
 
 import (
 	"fmt"
-	"github.com/go-admin-team/go-admin-core/debug/writer"
 	"testing"
 
-	"github.com/go-admin-team/go-admin-core/logger"
+	"github.com/yuanbing1113/monitor-admin-core/debug/writer"
+
+	"github.com/yuanbing1113/monitor-admin-core/logger"
 )
 
 func TestName(t *testing.T) {
